@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 27, 2024 at 08:27 AM
+-- Generation Time: May 11, 2024 at 07:18 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -118,7 +118,50 @@ INSERT INTO `categories` (`id`, `name`, `slug`, `image`, `status`, `created_at`,
 (53, 'fdsafjgdsfkdsabfidshflkjdsagfdsaigf', 'fdsafjgdsfkdsabfidshflkjdsagfdsaigf', NULL, 1, '2024-04-20 21:15:40', '2024-04-20 21:15:40'),
 (54, 'fdsadsa', 'fdsadsa', NULL, 1, '2024-04-20 21:15:46', '2024-04-20 21:15:46'),
 (55, 'fdsds', 'fdsds', NULL, 1, '2024-04-20 21:15:51', '2024-04-20 21:15:51'),
-(56, 'shahzaib imtiaz', 'shahzaib-imtiaz', NULL, 1, '2024-04-20 21:35:24', '2024-04-24 12:33:49');
+(56, 'shahzaib imtiaz fsafdsadsfafdsa', 'shahzaib-imtiaz-fsafdsadsfafdsa', NULL, 1, '2024-04-20 21:35:24', '2024-04-20 22:30:09'),
+(57, 'pakistan', 'pakistan', NULL, 1, '2024-05-01 07:39:52', '2024-05-01 07:39:52'),
+(58, '64e6', '64e6', NULL, 1, '2024-05-01 07:41:07', '2024-05-01 07:41:07'),
+(59, '23324sdf3', '23324sdf3', NULL, 1, '2024-05-01 07:42:56', '2024-05-01 07:42:56'),
+(60, 'sd343dfd', 'sd343dfd', NULL, 1, '2024-05-01 07:45:55', '2024-05-01 07:45:55'),
+(61, 'este', 'este', NULL, 1, '2024-05-01 07:47:13', '2024-05-01 07:47:13'),
+(62, 'testete', 'testete', NULL, 1, '2024-05-01 07:47:35', '2024-05-01 07:47:35'),
+(63, 'sdfasdfasdfafasdfqwe23123', 'sdfasdfasdfafasdfqwe23123', NULL, 1, '2024-05-01 07:47:54', '2024-05-01 07:47:54'),
+(64, 'this_si _sdf', 'this_si-_sdf', NULL, 1, '2024-05-01 07:48:23', '2024-05-01 07:48:23'),
+(65, 'ddfas3434', 'ddfas3434', NULL, 1, '2024-05-01 07:48:46', '2024-05-01 07:48:46'),
+(66, 'sdjhfasih2e129u', 'sdjhfasih2e129u', NULL, 1, '2024-05-01 07:49:25', '2024-05-01 07:49:25'),
+(67, 'sdfas3', 'sdfas3', NULL, 1, '2024-05-01 07:50:25', '2024-05-01 07:50:25'),
+(68, 'sdf sdl flsfmqwpm', 'sdf-sdl-flsfmqwpm', NULL, 1, '2024-05-01 07:50:46', '2024-05-01 07:50:46'),
+(69, 'sdf33-', 'sdf33-', NULL, 1, '2024-05-01 07:59:25', '2024-05-01 07:59:25'),
+(70, 'sdfds43423', 'sdfds43423', NULL, 1, '2024-05-01 08:07:58', '2024-05-01 08:07:58'),
+(71, 'test', 'test', NULL, 1, '2024-05-02 21:50:07', '2024-05-02 21:50:07'),
+(72, 'sdf3erd', 'sdf3erd', NULL, 1, '2024-05-02 21:53:03', '2024-05-02 21:53:03'),
+(73, 'stest', 'stest', NULL, 1, '2024-05-02 21:54:06', '2024-05-02 21:54:06'),
+(74, 'sdfas', 'sdfas', NULL, 1, '2024-05-02 21:55:05', '2024-05-02 21:55:05'),
+(75, 'sdfsdaasdf', 'sdfsdaasdf', NULL, 1, '2024-05-02 21:55:27', '2024-05-02 21:55:27'),
+(76, 'etete', 'etete', NULL, 1, '2024-05-02 21:56:04', '2024-05-02 21:56:04'),
+(77, 'nmbkb', 'nmbkb', NULL, 1, '2024-05-02 21:58:22', '2024-05-02 21:58:22'),
+(78, 'dfsafdf', 'dfsafdf', NULL, 1, '2024-05-02 21:59:22', '2024-05-02 21:59:22'),
+(79, 'dsfdfs', 'dsfdfs', NULL, 1, '2024-05-02 22:00:28', '2024-05-02 22:00:28'),
+(80, 'testet', 'testet', NULL, 1, '2024-05-02 22:03:18', '2024-05-02 22:03:18'),
+(81, 'SDFSDDFSDA', 'SDFSDDFSDA', NULL, 1, '2024-05-02 22:05:21', '2024-05-02 22:05:21'),
+(82, 'dasfasasd', 'dasfasasd', NULL, 1, '2024-05-02 22:07:08', '2024-05-02 22:07:08'),
+(83, 'fasdfasdfnasdf', 'fasdfasdfnasdf', '83.jpg', 1, '2024-05-02 22:11:00', '2024-05-02 22:11:00'),
+(84, 'testest', 'testest', NULL, 1, '2024-05-03 13:21:57', '2024-05-03 13:21:57'),
+(85, 'testestasdsdfafa', 'testestasdsdfafa', NULL, 1, '2024-05-03 13:22:29', '2024-05-03 13:22:29'),
+(86, 'testestasdsdfafafd', 'testestasdsdfafafd', NULL, 1, '2024-05-03 13:23:01', '2024-05-03 13:23:01'),
+(87, 'nsdlfsdfsdnfk', 'nsdlfsdfsdnfk', NULL, 1, '2024-05-03 13:23:33', '2024-05-03 13:23:33'),
+(88, 'sdjnfdsnfdslnnfjsdnfjlndsj', 'sdjnfdsnfdslnnfjsdnfjlndsj', NULL, 1, '2024-05-03 13:24:56', '2024-05-03 13:24:56'),
+(89, 'dfsfds', 'dfsfds', NULL, 1, '2024-05-03 13:39:40', '2024-05-03 13:39:40'),
+(90, 'khyijghgg', 'khyijghgg', NULL, 1, '2024-05-03 13:40:22', '2024-05-03 13:40:22'),
+(91, 'sdfbsdjfbasdjfbsi', 'sdfbsdjfbasdjfbsi', NULL, 1, '2024-05-03 13:42:38', '2024-05-03 13:42:38'),
+(92, 'xcvxcxcv', 'xcvxcxcv', '92.png', 1, '2024-05-03 13:43:22', '2024-05-03 13:43:22'),
+(93, 'shahzaib category for shahzaib', 'shahzaib-category-for-shahzaib', '93.png', 0, '2024-05-05 00:38:49', '2024-05-10 12:35:47'),
+(94, 'testintggs', 'testintggs', NULL, 0, '2024-05-10 12:38:04', '2024-05-10 12:38:04'),
+(95, 'bdfsdkfdsjf', 'bdfsdkfdsjf', NULL, 1, '2024-05-10 12:40:58', '2024-05-10 12:40:58'),
+(96, 'd fsdlnflsd', 'd-fsdlnflsd', NULL, 1, '2024-05-10 12:42:24', '2024-05-10 12:42:24'),
+(97, 'dbfkdsbfkds', 'dbfkdsbfkds', NULL, 1, '2024-05-10 12:43:28', '2024-05-10 12:43:28'),
+(98, 'sdfsdlnfsdjklfbkldsnf', 'sdfsdlnfsdjklfbkldsnf', NULL, 1, '2024-05-10 12:44:20', '2024-05-10 12:44:20'),
+(99, 'sdlnfjldnsfn', 'sdfsdlnfsdjklfbkldsnfsfdsf', '99-1715364389.jpg', 0, '2024-05-10 12:45:52', '2024-05-10 13:06:29');
 
 -- --------------------------------------------------------
 
@@ -159,7 +202,9 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (4, '2019_12_14_000001_create_personal_access_tokens_table', 1),
 (5, '2024_01_27_141631_create_categories_table', 2),
 (6, '2024_02_20_125830_sub_categories', 3),
-(7, '2024_04_20_132345_create_brands', 4);
+(7, '2024_04_20_132345_create_brands', 4),
+(8, '2024_05_01_111436_create_temp__image_table', 5),
+(9, '2024_05_01_122011_create_temp_image_table', 6);
 
 -- --------------------------------------------------------
 
@@ -388,6 +433,82 @@ INSERT INTO `sub_categories` (`id`, `Parent_category_id`, `name`, `slug`, `image
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `temp_images`
+--
+
+CREATE TABLE `temp_images` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `name` varchar(255) NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `temp_images`
+--
+
+INSERT INTO `temp_images` (`id`, `name`, `created_at`, `updated_at`) VALUES
+(1, '1714566245.png', '2024-05-01 07:24:05', '2024-05-01 07:24:05'),
+(2, '1714566432.gif', '2024-05-01 07:27:12', '2024-05-01 07:27:12'),
+(3, '1714566443.jpg', '2024-05-01 07:27:23', '2024-05-01 07:27:23'),
+(4, '1714567189.jpg', '2024-05-01 07:39:49', '2024-05-01 07:39:49'),
+(5, '1714567263.png', '2024-05-01 07:41:03', '2024-05-01 07:41:03'),
+(6, '1714567370.png', '2024-05-01 07:42:50', '2024-05-01 07:42:50'),
+(7, '1714567549.jpg', '2024-05-01 07:45:49', '2024-05-01 07:45:49'),
+(8, '1714567620.png', '2024-05-01 07:47:00', '2024-05-01 07:47:00'),
+(9, '1714567645.png', '2024-05-01 07:47:25', '2024-05-01 07:47:25'),
+(10, '1714567697.png', '2024-05-01 07:48:17', '2024-05-01 07:48:17'),
+(11, '1714567724.png', '2024-05-01 07:48:44', '2024-05-01 07:48:44'),
+(12, '1714567763.png', '2024-05-01 07:49:23', '2024-05-01 07:49:23'),
+(13, '1714567822.png', '2024-05-01 07:50:22', '2024-05-01 07:50:22'),
+(14, '1714567845.png', '2024-05-01 07:50:45', '2024-05-01 07:50:45'),
+(15, '1714568362.png', '2024-05-01 07:59:22', '2024-05-01 07:59:22'),
+(16, '1714568876.png', '2024-05-01 08:07:56', '2024-05-01 08:07:56'),
+(17, '1714704578.jpg', '2024-05-02 21:49:38', '2024-05-02 21:49:38'),
+(18, '1714704779.jpg', '2024-05-02 21:52:59', '2024-05-02 21:52:59'),
+(19, '1714704842.png', '2024-05-02 21:54:02', '2024-05-02 21:54:02'),
+(20, '1714704904.jpg', '2024-05-02 21:55:04', '2024-05-02 21:55:04'),
+(21, '1714704926.png', '2024-05-02 21:55:26', '2024-05-02 21:55:26'),
+(22, '1714704958.jpg', '2024-05-02 21:55:58', '2024-05-02 21:55:58'),
+(23, '1714705091.jpg', '2024-05-02 21:58:11', '2024-05-02 21:58:11'),
+(24, '1714705101.jpeg', '2024-05-02 21:58:21', '2024-05-02 21:58:21'),
+(25, '1714705147.png', '2024-05-02 21:59:07', '2024-05-02 21:59:07'),
+(26, '1714705220.png', '2024-05-02 22:00:20', '2024-05-02 22:00:20'),
+(27, '1714705385.png', '2024-05-02 22:03:05', '2024-05-02 22:03:05'),
+(28, '1714705516.jpg', '2024-05-02 22:05:16', '2024-05-02 22:05:16'),
+(29, '1714705625.jpeg', '2024-05-02 22:07:05', '2024-05-02 22:07:05'),
+(30, '1714705856.jpg', '2024-05-02 22:10:56', '2024-05-02 22:10:56'),
+(31, '1714760514.png', '2024-05-03 13:21:54', '2024-05-03 13:21:54'),
+(32, '1714760563.jpg', '2024-05-03 13:22:43', '2024-05-03 13:22:43'),
+(33, '1714760609.jpeg', '2024-05-03 13:23:29', '2024-05-03 13:23:29'),
+(34, '1714760694.jpg', '2024-05-03 13:24:54', '2024-05-03 13:24:54'),
+(35, '1714761578.jpg', '2024-05-03 13:39:38', '2024-05-03 13:39:38'),
+(36, '1714761619.png', '2024-05-03 13:40:19', '2024-05-03 13:40:19'),
+(37, '1714761749.png', '2024-05-03 13:42:29', '2024-05-03 13:42:29'),
+(38, '1714761797.png', '2024-05-03 13:43:17', '2024-05-03 13:43:17'),
+(39, '1714887509.png', '2024-05-05 00:38:29', '2024-05-05 00:38:29'),
+(40, '1715361711.png', '2024-05-10 12:21:51', '2024-05-10 12:21:51'),
+(41, '1715361767.png', '2024-05-10 12:22:47', '2024-05-10 12:22:47'),
+(42, '1715361884.jpg', '2024-05-10 12:24:44', '2024-05-10 12:24:44'),
+(43, '1715362545.jpg', '2024-05-10 12:35:45', '2024-05-10 12:35:45'),
+(44, '1715362679.jpg', '2024-05-10 12:37:59', '2024-05-10 12:37:59'),
+(45, '1715362856.jpg', '2024-05-10 12:40:56', '2024-05-10 12:40:56'),
+(46, '1715362942.jpg', '2024-05-10 12:42:22', '2024-05-10 12:42:22'),
+(47, '1715363005.png', '2024-05-10 12:43:25', '2024-05-10 12:43:25'),
+(48, '1715363057.png', '2024-05-10 12:44:17', '2024-05-10 12:44:17'),
+(49, '1715363151.png', '2024-05-10 12:45:51', '2024-05-10 12:45:51'),
+(50, '1715363165.jpg', '2024-05-10 12:46:05', '2024-05-10 12:46:05'),
+(51, '1715363251.jpg', '2024-05-10 12:47:31', '2024-05-10 12:47:31'),
+(52, '1715363286.jpg', '2024-05-10 12:48:06', '2024-05-10 12:48:06'),
+(53, '1715364044.png', '2024-05-10 13:00:44', '2024-05-10 13:00:44'),
+(54, '1715364254.jpeg', '2024-05-10 13:04:14', '2024-05-10 13:04:14'),
+(55, '1715364299.png', '2024-05-10 13:04:59', '2024-05-10 13:04:59'),
+(56, '1715364363.jpg', '2024-05-10 13:06:03', '2024-05-10 13:06:03'),
+(57, '1715364388.jpg', '2024-05-10 13:06:28', '2024-05-10 13:06:28');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `users`
 --
 
@@ -409,7 +530,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `role`, `created_at`, `updated_at`) VALUES
 (2, 'user', 'user@example.com', NULL, '$2y$12$J5pfKXGB4RgIFW0ZBUXUquS8AtgHoRHVSqPrzn1OOqpr3FPQCpkZy', NULL, '1', '2024-01-16 14:16:42', '2024-01-16 14:16:42'),
-(4, 'admin', 'admin@gmail.com', '2024-01-27 04:42:48', '$2y$12$kgsTNzuecR.kgUverE.J1.YgqGJ0UpHfhDoI72K88G5xZgmWL5SkK', 'tgVcbMd4n9b3FParDkT8fAEuefmSILfJ7rI576Ivvzl5ZMHW3la6FKf3ycRR', '1', '2024-01-27 04:42:49', '2024-01-27 04:42:49'),
+(4, 'admin', 'admin@gmail.com', '2024-01-27 04:42:48', '$2y$12$kgsTNzuecR.kgUverE.J1.YgqGJ0UpHfhDoI72K88G5xZgmWL5SkK', 'vEIXI2y6vwmOokJ1LEE53MJdQ8nRoTpNCZKAgvGwejjtJzqWHw161kvSlwK3', '1', '2024-01-27 04:42:49', '2024-01-27 04:42:49'),
 (5, 'User', 'user@gmail.com', '2024-01-27 04:44:01', '$2y$12$r01nukf/D7n4Womm9xeAtOcb/GI0FtxNpv1uXwmgupdFCOMtwIJma', 'MaHRpWGULzrjyHBqg1AXRk2zNtDDfTnE7gyz7yg3fOVFbvEk9kCrc6GacKSJ', '2', '2024-01-27 04:44:01', '2024-01-27 04:44:01');
 
 --
@@ -462,6 +583,12 @@ ALTER TABLE `sub_categories`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `temp_images`
+--
+ALTER TABLE `temp_images`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `users`
 --
 ALTER TABLE `users`
@@ -482,7 +609,7 @@ ALTER TABLE `brands`
 -- AUTO_INCREMENT for table `categories`
 --
 ALTER TABLE `categories`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=57;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=100;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
@@ -494,7 +621,7 @@ ALTER TABLE `failed_jobs`
 -- AUTO_INCREMENT for table `migrations`
 --
 ALTER TABLE `migrations`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 
 --
 -- AUTO_INCREMENT for table `personal_access_tokens`
@@ -507,6 +634,12 @@ ALTER TABLE `personal_access_tokens`
 --
 ALTER TABLE `sub_categories`
   MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=214;
+
+--
+-- AUTO_INCREMENT for table `temp_images`
+--
+ALTER TABLE `temp_images`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=58;
 
 --
 -- AUTO_INCREMENT for table `users`

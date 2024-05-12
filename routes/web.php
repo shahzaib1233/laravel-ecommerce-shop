@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\AdminLoginController;
 use App\Http\Controllers\Admin\HomeController;
 use App\Http\Controllers\Admin\CategoryController;
+use App\Http\Controllers\Admin\sub__categoriesController;
 use App\Http\Controllers\Admin\temp_imageController; // Corrected namespace for TempImageController
 
 Route::get('/', function () {
@@ -26,8 +27,16 @@ Route::group(['prefix' => 'admin'], function () {
         Route::get('/categories/create', [CategoryController::class, 'create'])->name('categories.create');
         Route::get('/categories/index', [CategoryController::class, 'index'])->name('categories.index');
         Route::post('/categories/store', [CategoryController::class, 'store'])->name('categories.store');
+        Route::get('/categories/editcat/{id}', [CategoryController::class, 'update'])->name('categories.editcat');
+        Route::put('categories/update/{id}', [CategoryController::class, 'edit'])->name('categories/update');
+        Route::delete('categories/delete/{id}', [CategoryController::class, 'delete_cat'])->name('categories/delete');
 
         // Temp Image route
         Route::post('/upload-temp-image', [temp_imageController::class, 'create'])->name('temp-images.create');
+
+        //sub category routes
+        Route::get('/sub_categories/create', [sub__categoriesController::class, 'create'])->name('sub_categories.create');
+        Route::post('sub_categories/store', [sub__categoriesController::class, 'store'])->name('admin.sub_categories.store');
+
     });
 });
